@@ -102,3 +102,18 @@ table tr th {
     width: 400px;
     height: 300px;
 }
+
+.clubBox {
+    width: 600px;
+    margin: auto;
+    margin-bottom: 75px;
+}
+
+.sourcing {
+    margin-top: -10px;
+    font-size: 0.8em;
+}
+.sourcing a:hover {
+    text-decoration: none;
+    color: #3b6
+}
